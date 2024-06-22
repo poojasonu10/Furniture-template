@@ -29,16 +29,6 @@ body {
     border: none !important;
     outline: none !important;
 }
-.section-bg {
-    width: 100%;
-    height: 100vh;
-    background: url('/Images/pic2.png');
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    color: #f1f1fe;
-    text-align: center;
-}
 .main-btn {
     display: inline-block;
     border-radius: 0px;
@@ -119,18 +109,9 @@ footer .footer-p {
     font-size: 1.9rem;
     font-weight: 600;
 }
-.about_section .navbar,
-.contact_section .navbar,
-.gallery_section .navbar {
-    visibility: visible;
-}
 .banner {
     width: 100%;
     height: 300px;
-    background: url('/Images/pic2.png');
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
     color: var(--text-white);
     text-align: center;
     display: inline-flex;
